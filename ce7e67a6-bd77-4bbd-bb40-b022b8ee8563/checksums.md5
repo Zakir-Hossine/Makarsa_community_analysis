@@ -1,0 +1,15 @@
+e9ec2d3b8bfccd9ac9bfd7d1f0f2108e  VERSION
+316c9f0df7b8797d4f7507274902b31d  metadata.yaml
+b623f833a32b32f429e54b8bf1283fe9  data/feature-table.biom
+e9ec2d3b8bfccd9ac9bfd7d1f0f2108e  provenance/VERSION
+71a5d7b0d3803116a479752f997b3d93  provenance/citations.bib
+316c9f0df7b8797d4f7507274902b31d  provenance/metadata.yaml
+0750eada1a5ae2972c4c538806614ed1  provenance/action/action.yaml
+e9ec2d3b8bfccd9ac9bfd7d1f0f2108e  provenance/artifacts/2e0602a7-9afe-4ced-906c-e98460e719db/VERSION
+71a5d7b0d3803116a479752f997b3d93  provenance/artifacts/2e0602a7-9afe-4ced-906c-e98460e719db/citations.bib
+12b732e3cef1c15ed737285bc2c98eb6  provenance/artifacts/2e0602a7-9afe-4ced-906c-e98460e719db/metadata.yaml
+e0b916c225c5ca4ad55a7ac4803ddcf3  provenance/artifacts/2e0602a7-9afe-4ced-906c-e98460e719db/action/action.yaml
+7678469558b8a6f62ea429f4f6d924ac  provenance/artifacts/9b10f502-3275-40bc-b0fe-d8cbcc90f461/VERSION
+1b9f6663f7eea69fbab9f52f396ac578  provenance/artifacts/9b10f502-3275-40bc-b0fe-d8cbcc90f461/citations.bib
+8b671511de4c6bca3597c4caf37cd958  provenance/artifacts/9b10f502-3275-40bc-b0fe-d8cbcc90f461/metadata.yaml
+3331010ad640a682e72116677ebe2f15  provenance/artifacts/9b10f502-3275-40bc-b0fe-d8cbcc90f461/action/action.yaml
